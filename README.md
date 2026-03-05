@@ -1,2 +1,2 @@
 # Classification-and-Detection-of-Anemia-Using-Synergy-of-Machine-Learning-and-Image-Processing
-An automated anemia detection system using image processing and the Fly ROI-based feature extraction model. It extracts morphological and texture features from microscopic blood images and classifies anemia types using an ensemble of Logistic Regression, Random Forest, and XGBoost with a GUI for prediction.**
+An automated anemia detection system using image processing and the Fly ROI-based feature extraction model. It extracts morphological and texture features from microscopic blood images and classifies anemia types using an ensemble of Logistic Regression, Random Forest, and XGBoost with a GUI for prediction.
