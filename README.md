@@ -80,6 +80,16 @@ Seaborn
 Tkinter
 Imbalanced-learn (SMOTE)
 
+# Supported Anemia Types
+
+Depending on the dataset, the system can classify:
+Microcytic Anemia
+Macrocytic Anemia
+Normocytic Anemia
+Hemolytic Anemia
+Sickle Cell Anemia
+Non-Anemic
+
 # Project Structure
 Anemia-Detection-ML
 │
