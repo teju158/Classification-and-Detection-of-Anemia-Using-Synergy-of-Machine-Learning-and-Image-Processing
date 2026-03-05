@@ -1,9 +1,13 @@
 # Classification-and-Detection-of-Anemia-Using-Synergy-of-Machine-Learning-and-Image-Processing
 An automated anemia detection system that combines image processing techniques and machine learning algorithms to classify different types of anemia from microscopic blood smear images. The system extracts morphological and texture-based features from red blood cells and uses an ensemble classifier to provide accurate predictions through a user-friendly GUI.
+
 # Project Overview
 Anemia is a common hematological disorder characterized by a deficiency of red blood cells or hemoglobin in the blood. Traditional anemia diagnosis involves manual examination of blood smear images by medical experts, which can be time-consuming and subjective.
+
 This project proposes an automated anemia detection system that uses advanced image processing and machine learning techniques to analyze microscopic blood images and classify anemia types efficiently.
+
 The system processes blood smear images, extracts meaningful morphological and texture features, and applies an ensemble machine learning model to classify the anemia type.
+
 # Key Features
 Automated Red Blood Cell (RBC) detection using Fly ROI technique
 Image preprocessing using OpenCV
