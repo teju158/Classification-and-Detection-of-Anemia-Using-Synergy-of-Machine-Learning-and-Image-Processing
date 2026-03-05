@@ -108,6 +108,12 @@ Anemia-Detection-ML
 │
 └── README.md
 
+# Dataset Availability
+The dataset used in this project consists of real microscopic blood smear images obtained from clinical samples. These images were captured by medical professionals with the informed consent of the patients. To ensure patient privacy and prevent any potential misuse of sensitive medical data, the dataset has not been included in this public repository.
+The dataset is organized in a folder named Labeled_Images1, which contains six subfolders corresponding to different anemia categories. Each subfolder stores the respective blood cell images required for training and testing the model.
+Due to ethical and privacy considerations, the dataset is not publicly shared on GitHub. Researchers or developers who are interested in reproducing the results, modifying the project, or conducting further research may request access to the dataset. Upon a valid request and for academic or research purposes, the dataset can be shared privately.
+If you require access to the dataset, please feel free to contact the repository author.
+
 # Running the Training Model
 python training_model.py
 This will:
